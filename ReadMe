@@ -1,0 +1,41 @@
+
+## Requirements
+
+Before running the application, make sure you have the following installed on your machine:
+
+- [Python 3.x](https://www.python.org/downloads/)
+- [pip](https://pip.pypa.io/en/stable/)
+
+## Installation
+
+Follow these steps to install the dependencies and set up the application environment:
+
+1. **Clone the repository**:
+   If you haven't done it yet, clone this repository to your local machine.
+
+   ```bash
+   git clone <REPOSITORY_URL>
+   cd <REPOSITORY_DIRECTORY_NAME>
+
+2. **Install dependencies**:
+    With the virtual environment activated, install the necessary dependencies using pip.
+
+    -[pip install -r requirements.txt]
+
+3. **Set up the OpenAI API Key**
+
+    The OpenAI API key must be available in your environment for the application to work properly
+
+    - Create a .env file at the root of your project with the following content:
+    [OPENAI_API_KEY=Api_Key]
+
+4. **Install python-dotenv**
+
+    Make sure the python-dotenv library is installed to load environment variables from the .env file.
+
+    [pip install python-dotenv]
+
+5. **Execution**
+
+    Use command "python default.py"
+

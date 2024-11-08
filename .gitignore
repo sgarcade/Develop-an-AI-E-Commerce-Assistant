@@ -1,0 +1,12 @@
+# Ignore Python bytecode
+__pycache__/
+*.pyc
+
+# Ignore virtual environment
+venv/
+
+# Ignore .env file
+.env
+
+# Ignore other files and folders you don't want to track
+*.log

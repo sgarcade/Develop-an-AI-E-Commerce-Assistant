@@ -1,0 +1,37 @@
+[
+    {
+        "product_id": 1,
+        "name": "EcoFriendly Water Bottle",
+        "description": "A sustainable water bottle made from 100% recycled materials.",
+        "price": 15.99,
+        "stock": true
+    },
+    {
+        "product_id": 2,
+        "name": "Organic Cotton T-Shirt",
+        "description": "A soft, organic cotton T-shirt available in multiple colors.",
+        "price": 12.49,
+        "stock": true
+    },
+    {
+        "product_id": 3,
+        "name": "Bamboo Toothbrush",
+        "description": "An eco-friendly bamboo toothbrush with soft bristles.",
+        "price": 3.99,
+        "stock": false
+    },
+    {
+        "product_id": 4,
+        "name": "Reusable Shopping Bag",
+        "description": "A large, durable shopping bag made from recycled plastic.",
+        "price": 5.49,
+        "stock": true
+    },
+    {
+        "product_id": 5,
+        "name": "Solar Powered Charger",
+        "description": "Portable solar charger for phones and small devices.",
+        "price": 19.99,
+        "stock": true
+    }
+]
